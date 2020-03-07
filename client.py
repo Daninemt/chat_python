@@ -63,6 +63,6 @@ class ChatClient:
 
 
 if __name__ == "__main__":
-    SERVER_HOST = input("Enter host's ip: ")
+    SERVER_HOST = input("Enter servers's ip: ")
     SERVER_PORT = 4333
     client = ChatClient(SERVER_HOST, SERVER_PORT)
