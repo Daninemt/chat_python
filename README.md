@@ -19,7 +19,7 @@ For client:
 $ docker pull docker.pkg.github.com/daninemt/chat_python/chat_client:1.0
 $ docker run --rm -it docker.pkg.github.com/daninemt/chat_python/chat_client:1.0
 ```
-when server's ip is requested, be sure to enter server docker's ip.
+When server's ip is requested, be sure to enter docker's ip.
 
 ### Usage for terminal platform
 
