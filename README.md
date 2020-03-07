@@ -21,7 +21,7 @@ $ docker run --rm -it docker.pkg.github.com/daninemt/chat_python/chat_client:1.0
 ```
 When server's ip is requested, be sure to enter docker's ip.
 
-### Usage for terminal platform
+### Usage for terminal platforms
 
 
 For server:
