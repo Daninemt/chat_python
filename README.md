@@ -1,7 +1,7 @@
 # Chat_python
 
 
-This is a simpe python chat.
+This is a simple chat.
 
 ### Usage for docker platforms
 
